@@ -19,18 +19,9 @@ To run this notebook, you need to have Jupyter Notebook installed along with the
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/repositoryname.git
-    cd repositoryname
+    git clone https://github.com/yourusername/repositoryname.git](https://github.com/Mohammedh564/impelmenting-some-machine-learning-algorethims.git
+    cd impelmenting-some-machine-learning-algorethims
     ```
-
-2. **Install the required Python packages:**
-
-    Make sure you have Python 3.x installed. You can install the dependencies using pip:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 3. **Run Jupyter Notebook:**
 
     ```bash
